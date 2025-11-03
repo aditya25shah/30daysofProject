@@ -1,0 +1,7 @@
+# Project
+
+In this Project i would be building minimal small apps basic human need apps to master reactjs 
+i have copied the Css from AI 
+the rest main logic part is done by me without the help of AI.
+
+Day 1 : Weather App 
