@@ -1,0 +1,91 @@
+/* Global styles */
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #6e8efb, #a777e3);
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Container card */
+div {
+  box-sizing: border-box;
+}
+
+.currency-container {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 40px;
+  width: 350px;
+  text-align: center;
+  color: #fff;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* Heading */
+.currency-container h1 {
+  margin-bottom: 25px;
+  font-size: 28px;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+/* Input and selects */
+.currency-container input,
+.currency-container select {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0 16px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+}
+
+.currency-container input::placeholder,
+.currency-container select option {
+  color: #000;
+}
+
+/* Button */
+.currency-container button {
+  background: #6e8efb;
+  border: none;
+  color: #fff;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.currency-container button:hover {
+  background: #a777e3;
+  transform: translateY(-2px);
+}
+
+/* Converted amount */
+.currency-container h2 {
+  margin-top: 25px;
+  font-size: 22px;
+  color: #e0e0e0;
+}
+
+/* Responsive design */
+@media (max-width: 400px) {
+  .currency-container {
+    width: 90%;
+    padding: 25px;
+  }
+  .currency-container h1 {
+    font-size: 24px;
+  }
+}
