@@ -5,4 +5,10 @@ i have copied the Css from AI
 the rest main logic part is done by me without the help of AI.
 
 Day 1 : Weather App 
+
 Day 2 : Enhanced Weather App by using user's Current Location using Geolocation of Browsers
+
+Day 3 : 
+
+
+# 30 Days 30 project Challenge to Master ReactJS
