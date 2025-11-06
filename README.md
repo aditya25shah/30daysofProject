@@ -12,5 +12,7 @@ Day 3 : Currency Converter
 
 Day 4 : Travel Website 
 
+Day 5 : Gemini powered ai chatbot
+
 
 # 30 Days 30 project Challenge to Master ReactJS
