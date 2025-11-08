@@ -10,10 +10,7 @@ Day 2 : Enhanced Weather App by using user's Current Location using Geolocation 
 
 Day 3 : Currency Converter 
 
-Day 4 : Travel Website 
-
-Day 5 : Gemini powered ai chatbot
-Day 3 : Currency Converter App 
+Day 4 : Gemini powered ai chatbot (Did it but got to know will need a backend for that)
 
 
 # 30 Days 30 project Challenge to Master ReactJS
