@@ -1,4 +1,4 @@
-## Currency Converter App 
+## Gemini Chatbot
 
 on Day 4 i would be building a  Gemini Powered chatbot  which uses api key (i have removed it ) and also i will seek some help from any llm to build it great 
 
