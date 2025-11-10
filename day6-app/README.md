@@ -1,8 +1,11 @@
-## Pomodoro Timer
+## Qr Code Scanner
 
-Today i made a very small project named pomodoro timer which is a timer of exact 25 minutes it was a good to go project 
-as i revised some basic maths and useEffect, some javascript topics as well 
+Today i made a project QrCode Scanner which uses  React Build in library which helps in scanning qr code 
 
+this helped me gain a good amount of knowledge about 
+- how useEffect works 
+- how React works with build it library 
+- how Html5-qrcode works
 
 Thankyou 
 Aditya 
