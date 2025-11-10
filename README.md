@@ -14,8 +14,10 @@ Day 4 : Gemini powered ai chatbot (Did it but got to know will need a backend fo
 
 Day 5 : Basic Pomodoro Timer App (07-11-25)
 
-Day 6: QR Code Generator (08-11-25)
+Day 6: QR Code Scanner (08-11-25)
 
-Day 7 : Attendance Based System Using BarCode (09-11-25)
+Day 7 : BarCode Scanner (09-11-25)
+
+Day 8 : Attendance Based System Using BarCode (10-11-25)
 
 # 30 Days 30 project Challenge to Master ReactJS
